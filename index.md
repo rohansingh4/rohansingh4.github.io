@@ -1,6 +1,6 @@
 # Rohan Singh
 
-**Innovative Blockchain Developer & Product Manager**  
+Blockchain Developer  
 📍 Gurugram, India | 📞 +91-7077100690 | 📧 rohan.singh1104@gmail.com
 
 ---
@@ -18,14 +18,6 @@ I specialize in building secure, scalable, and multi-chain DeFi infrastructure a
 - **Blockchains**: Ethereum (EVM), Stellar, Hedera, Hyperledger Fabric, Starknet, Partisia  
 - **Cloud & Infra**: AWS EC2, IPFS, Docker  
 - **Other**: Zero-Knowledge Proofs, MPC, Account Abstraction, Smart Contract Audits
-
----
-
-## 🎓 Education
-
-**KIIT University, Bhubaneswar**  
-*B.Tech in Information Technology | 2014 – 2018*  
-📊 CGPA: 8.03
 
 ---
 
